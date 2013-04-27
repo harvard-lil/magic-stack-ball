@@ -1,0 +1,244 @@
+{
+  "projects": {
+    "big": [
+			{
+        "name": "Time/Slice",
+        "image": "img/timeslice.png",
+        "link": "http://www.timeslice.io",
+        "description": "A crowd-sourced digital bulletin board",
+        "contributors":
+        [
+          "Jessica Yurkofsky"
+          
+        ]
+      },
+      {
+        "name": "Curated Collections for the Curious",
+        "image": "img/curatedCollections.png",
+        "link": "http://librarylab.law.harvard.edu/librarytestkitchen/?page_id=480",
+        "description": "An exhibition of the research processes within the Harvard community",
+        "contributors":
+        [
+          "Kaitlyn Fitzgerald"
+        ]
+      },
+      {
+        "name": "Need it Now!",
+        "image": "img/NeedItNow.png",
+        "link": "http://librarylab.law.harvard.edu/librarytestkitchen/?page_id=454",
+        "description": "Building a new kind of core collection",
+        "contributors":
+        [
+          "Yuhka Miura"
+        ]
+      },
+      {
+        "name": "Neo-Carrel",
+        "image": "img/neo-carrel.png",
+        "link": "http://librarylab.law.harvard.edu/librarytestkitchen/?page_id=475",
+        "description": "A new kind of sleeping and working space",
+        "contributors":
+        [
+          "Vera Baranova"
+        ]
+      },
+      {
+        "name": "Biblio",
+        "image": "img/biblio.png",
+        "link": "http://librarylab.law.harvard.edu/librarytestkitchen/?page_id=462",
+        "description": "Meet Biblio, your library friend",
+        "contributors":
+        [
+          "Ben Brady"
+        ]
+      },
+      {
+        "name": "Wi-Fi Cold Spot",
+        "image": "img/cold-spot2.png",
+        "link": "http://librarylab.law.harvard.edu/librarytestkitchen/?page_id=464",
+        "description": "An anti-phonebooth",
+        "contributors":
+        [
+          "Ben Brady"
+        ]
+      },
+      {
+        "name": "Spatial Googling",
+        "image": "img/spatialGoogling.png",
+        "link": "http://librarylab.law.harvard.edu/librarytestkitchen/?page_id=470",
+        "description": "A proposal to redefine the Library using RFID Technology and Smartphones",
+        "contributors":
+        [
+          "Stacy Morton"
+        ]
+      },
+      {
+        "name": "Library As A Mini-City",
+        "image": "img/mini-city.png",
+        "link": "http://librarylab.law.harvard.edu/librarytestkitchen/?page_id=472",
+        "description": "Differentiating Activity For Multiple Users",
+        "contributors":
+        [
+          "Vera Baranova"
+        ]
+      },
+      {
+        "name": "The Cloud of Unknowing",
+        "image": "img/unknowing.png",
+        "link": "http://librarylab.law.harvard.edu/librarytestkitchen/?page_id=484",
+        "description": "Creating a living archive of the EPA’s Field Repository",
+        "contributors":
+        [
+          "Dan Borelli"
+        ]
+      }
+    ],
+
+
+      "small": [
+    {
+      "name": "Bowl",
+      "image": "img/BPL_bowling-prev.png",
+      "link": "http://librarylicense.org/",
+      "description": "",
+      "contributors": 
+      [
+        "Jeff Goldenson"
+      ]
+    },
+    
+    {
+      "name": "Booth",
+      "image": "img/cellphone-prev.png",
+      "link": "http://librarylab.law.harvard.edu/projects/librarycloud-plugin/",
+      "description": "",
+      "contributors": 
+      [
+        "Jeff Goldenson",
+        "Matt Phillips"
+      ]
+    },
+    {
+      "name": "Landscape",
+      "image": "img/butterfly-prev.png",
+      "link": "http://www.librarylab.law.harvard.edu/checkout/",
+      "description": "",
+      "contributors": 
+      [
+        "Annie Cain",
+        "Jeff Goldenson"
+      ]
+    },
+    {
+      "name": "Slip n' Slide",
+      "image": "img/BPL_slip_n_slide-prev.png",
+      "link": "http://news.librarycloud.org/",
+      "description": "",
+      "contributors":
+      [
+        "Jeff Goldenson", 
+        "Matt Phillips"
+      ]
+    },
+    {
+      "name": "Library Hose",
+      "image": "img/twitter.png",
+      "image-hover": "img/twitter-hover.png",
+      "link": "http://www.librarylab.law.harvard.edu/twitter/",
+      "description": "",
+      "contributors": 
+      [
+        "Annie Cain",
+        "Jeff Goldenson"
+      ]
+    }
+    ]
+  },
+  "people": [
+  {
+    "name": "Ben Brady",
+    "image": "img/ben.png",
+    "description": "Ben is a graduate with distinction from the GSD ('12) and co-founder of <a href=\"http://lbstudio.us/\">&#35;Studio</a>",
+     "email": "bendbrady (at) gmail.com"
+  },
+ {	
+    "name": "Jeff Goldenson",
+    "image": "img/jeff.png",
+    "description": "Jeff is the Designer at the <a href=\"http://librarylab.law.harvard.edu/\">Harvard Library Innovation Lab</a>.",
+    "email": "jgoldenson (at) law.harvard.edu"
+  },
+  {
+    "name": "Jeffrey Schnapp",
+    "image": "img/jeffrey.png",
+    "description": "Jeffrey is Professor in the Department of Romance Languages and Literatures and Faculty Director of <a href=\"http://metalab.harvard.edu/\">metaLAB</a>.",
+    "email": "jeffrey (at) metalab.harvard.edu"
+  },
+{
+    "name": "Ann Whiteside",
+    "image": "img/ann.png",
+    "description": "Ann is Director of the <a href=\"http://www.gsd.harvard.edu/#/loeblibrary/index.html\">Loeb Architecture Library</a> in the Graduate School of Design.",
+    "email": "awhiteside (at) gsd.harvard.edu"
+  },
+{
+    "name": "Jessica Yurkofsky",
+    "image": "img/jessica.png",
+    "description": "Jessica received a Masters in Urban Planning from the GSD ('12).  And she's currently hanging out in the <a href=\"http://librarylab.law.harvard.edu/\">Harvard Library Innovation Lab</a>.",
+    "email": "jessica.yurko (at) gmail.com"
+  },
+    {
+    "name": "Arielle",
+    "image": "img/arielle.png",
+    "description": "<a href=\"http://librarylab.tumblr.com/\">Course Blog</a>"
+  },
+ {	
+    "name": "Bea",
+    "image": "img/bea.png",
+    "description": "<a href=\"http://librarytestproject.wordpress.com/\">Course Blog</a>"
+  },
+  {
+    "name": "Brendan",
+    "image": "img/brendan.png",
+    "description": "<a href=\"http://brendanslibrary.tumblr.com/\">Course Blog</a>"
+  },
+{
+    "name": "Bri",
+    "image": "img/bri.png",
+    "description": "<a href=\"http://lab-rary.tumblr.com/\">Course Blog</a>"
+  },
+{
+    "name": "Chris",
+    "image": "img/chris.png",
+    "description": "<a href=\"http://chrismolinski.com/LTK/\">Course Blog</a>"
+  },
+    {
+    "name": "Dana",
+    "image": "img/dana.png",
+    "description": "<a href=\"http://modlearning.wordpress.com/\">Course Blog</a>"
+  },
+ {	
+    "name": "Hattie",
+    "image": "img/hattie.png",
+    "description": "<a href=\"http://yeahlibraries.wordpress.com/\">Course Blog</a>"
+  },
+  {
+    "name": "Nicolas",
+    "image": "img/nicolas.png",
+    "description": "<a href=\"http://nicolasrivard.tumblr.com/\">Course Blog</a>"
+  },
+{
+    "name": "Pablo",
+    "image": "img/pablo.png",
+    "description": "<a href=\"http://ltkpablo.tumblr.com/\">Course Blog</a>"
+  },
+{
+    "name": "Rola",
+    "image": "img/rola.png",
+    "description": "<a href=\"http://labrary.tumblr.com/\">Course Blog</a>"
+  },
+    {
+    "name": "Tony",
+    "image": "img/tony.png",
+    "description": "<a href=\"http://bibliotecacho.tumblr.com/\">Course Blog</a>"
+  }
+  ]
+}

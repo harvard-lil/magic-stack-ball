@@ -45,12 +45,9 @@ function get_composite_doc() {
 	$doc_to_send['lc_id'] = $jsoned_lc_data->docs[0]->id;
 	$doc_to_send['subject'] = $jsoned_lc_data->docs[0]->lcsh[0];
 	
-//	print_r($doc_to_send);
-	
 	if (!empty($doc_to_send['title']) && !empty($doc_to_send['creator']) && !empty($doc_to_send['lc_id']) && !empty($doc_to_send['subject'])) {
 		return $doc_to_send;
 	} else {
-		print "not complete. trying again ";
 		get_composite_doc();
 	}
 }

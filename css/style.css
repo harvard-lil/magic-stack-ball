@@ -997,14 +997,14 @@ optgroup::-moz-focus-inner {
 
 #ball-message {
     height:100px;
-    width:140px;
+    width:145px;
     font: 14px/15px "ff-meta-serif-web-pro",serif;
     letter-spacing: 1px;
     line-height: 1.2;
 }
 
 #ball-message a{
-        color:#ddd;
+	color:#ddd;
 }
 
 #ball-message a:hover {

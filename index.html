@@ -17,9 +17,7 @@
 
     <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
 
-
 	<link href=​"http:​/​/​fonts.googleapis.com/​css?family=Vollkorn:​400italic,400" rel=​"stylesheet" type=​"text/​css">​
-
   </head>
 
   <body>
@@ -37,15 +35,15 @@
 		<br/><!--add spacing the old fashion way-->
 		
   		<div class="row">
-			<div class="span7">		
+			<div class="span7">	
 				<span id="ball-message"></span>
 				<img src="img/holder.png" id="ball"/>
 			</div>
   			<div class="span5">
 				<div class="choose-your-path">
-					<p class="question"> I need something to read. Can you give me a suggestion?</p>
+					<p id="book-suggestion" class="question"> I need something to read. Can you give me a suggestion?</p>
 					<p class="question-separator"> - or - </p>
-					<p class="question">I need a new major. Where should I wander in the stacks?</p>
+					<p id="major-suggesion" class="question">I need a new major. Where should I wander in the stacks?</p>
 				</div>
 			</div>
 		</div>
@@ -78,24 +76,6 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script type="text/javascript">		
-		$(".question").click(function() {
-
-			$('#ball-message').hide();
-			$("#ball").attr("src", "img/eight-ball.gif");
-					
-			var position = $('#ball').position();
-			
-			var ball_message = $('#ball-message').html("<a href='http://stacklife.harvard.edu'>The Idea Factory: Bell Labs and the Great Age of American Innovation<br/><br/>Jon Gertner</a>").css({"position": "absolute", "top": position.top + 150, "left": position.left +255}).delay(1000).fadeIn(2200, "swing");
-
-			$('#image-container').append(ball_message);
-
-		});
-		
-		$(window).resize(function() {
-			var position = $('#ball').position();
-			$('#ball-message').css({"position": "absolute", "top": position.top + 150, "left": position.left + 255});
-		});
-	</script>
+    <script type="text/javascript" src="js/magic-eight-ball.js"></script>
   </body>
 </html>
